@@ -38,4 +38,6 @@ class AdminController extends Controller
         $profileData = User::find($id);
         return view('admin.admin_profile_view',compact('profileData'));
     }
+    //Admin store
+    
 }
