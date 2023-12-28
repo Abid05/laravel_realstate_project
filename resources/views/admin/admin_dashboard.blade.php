@@ -101,7 +101,7 @@
                   break;
                 }
         @endif
-       </script>
+    </script>
 
 </body>
 
